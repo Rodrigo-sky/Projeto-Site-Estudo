@@ -5,17 +5,25 @@
 .logo{
 
     width: 10%;
-    text-align: left;
+    text-align: ;
     margin: 2%;
 }
 
+body{
+    background-color:#313632;
+    color:  #ffffff;
+}
+
+
 .logoMedia{
     /* text-align: center; */
-    width: 5%;
+    width: 3%;
     margin: 20px;
 }
 
 .footer{
     background-color: #1e9443;
     text-align: center;
+    font-family: Calibri, sans-serif;
+    font-size: 85%;
 }
