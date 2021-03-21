@@ -1,0 +1,21 @@
+.header{
+    background-color: #1e9443;
+}
+
+.logo{
+
+    width: 10%;
+    text-align: left;
+    margin: 2%;
+}
+
+.logoMedia{
+    /* text-align: center; */
+    width: 5%;
+    margin: 20px;
+}
+
+.footer{
+    background-color: #1e9443;
+    text-align: center;
+}
