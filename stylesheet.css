@@ -1,17 +1,22 @@
-.header{
+.header {
     background-color: #1e9443;
 }
 
-.logo{
+.logo {
 
-    width: 10%;
-    text-align: ;
-    margin: 2%;
+    width: 100%;
+    text-align: left;
+    padding: 10px;
 }
+
 
 body{
     background-color:#313632;
     color:  #ffffff;
+}
+
+.corpo{
+    text-align: center;
 }
 
 
