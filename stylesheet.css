@@ -9,18 +9,18 @@
     padding: 10px;
 }
 
-.nav{
-    margin: center;
-}
 
 .nav-link {
     color: #ffffff;
-    font-size: 100%;
+    font-size: 30px;
+    margin-top: 50px;
+    /* width: 50%; */
+    padding: 10px;
 }
 
 
 body{
-    background-color:#313632;
+    background-color: #313632;
     color:  #ffffff;
 }
 
