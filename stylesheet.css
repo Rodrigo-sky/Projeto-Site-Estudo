@@ -9,6 +9,15 @@
     padding: 10px;
 }
 
+.nav{
+    margin: center;
+}
+
+.nav-link {
+    color: #ffffff;
+    font-size: 100%;
+}
+
 
 body{
     background-color:#313632;
