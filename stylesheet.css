@@ -7,15 +7,31 @@
     width: 100%;
     text-align: left;
     padding: 10px;
+    margin-top: auto;
+}
+.centered{
+    margin: auto;
+    padding: 10px;
+}
+
+h3{
+    font-size: 3rem;
+}
+
+p{
+    font-size: 1.5rem;
 }
 
 
 .nav-link {
     color: white;
     font-size: 30px;
-    margin-top: 50px;
     /* width: 50%; */
     padding: 10px;
+}
+
+a:hover{
+    color: #313632;
 }
 
 #fat{
@@ -34,7 +50,7 @@ body{
 
 .logoMedia{
     /* text-align: center; */
-    width: 3%;
+    width: 3rem;
     margin: 20px;
 }
 
