@@ -1,4 +1,4 @@
-.header {
+.header{
     background-color: #1e9443;
 }
 
@@ -19,14 +19,13 @@ h3{
 }
 
 p{
-    font-size: 1.5rem;
+    font-size: 19.5px;
 }
 
 
 .nav-link {
     color: white;
     font-size: 30px;
-    /* width: 50%; */
     padding: 10px;
 }
 
@@ -35,16 +34,18 @@ a:hover{
 }
 
 #fat{
-  margin-top: 1rem;
+  margin-top: 10px;
 }
 
 body{
     background-color: #313632;
     color:  #ffffff;
+    
 }
 
 .corpo{
     text-align: center;
+    border-style: hidden;
 }
 
 
