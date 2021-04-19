@@ -47,7 +47,7 @@ body{
     text-align: center;
 }
 
-.cartao{
+#cartao{
     background-color: #313632;
     border: hidden;
     padding: 10px;
