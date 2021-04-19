@@ -45,7 +45,12 @@ body{
 
 .corpo{
     text-align: center;
-    border-style: hidden;
+}
+
+.card{
+    background-color: #313632;
+    border: hidden;
+    padding: 10px;
 }
 
 
