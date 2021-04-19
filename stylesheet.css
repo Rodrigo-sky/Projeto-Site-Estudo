@@ -15,7 +15,10 @@
 }
 
 h3{
-    font-size: 3rem;
+    font-size:40px;
+}
+h4{
+    font-size: 30px;
 }
 
 p{
@@ -45,7 +48,12 @@ body{
 
 .corpo{
     text-align: center;
-    border-style: hidden;
+}
+
+#cartao{
+    background-color: #313632;
+    border: hidden;
+    padding: 10px;
 }
 
 
@@ -53,6 +61,11 @@ body{
     /* text-align: center; */
     width: 3rem;
     margin: 20px;
+}
+.carousel img{
+    max-height: 722px;
+    max-width:100%;
+    object-fit: contain;
 }
 
 .footer{
@@ -63,3 +76,4 @@ body{
     margin-top: auto;
     margin-bottom: auto;
 }
+
