@@ -33,6 +33,7 @@ body{
 
 .bevenido{
     color: #13b897;
+    padding: 5px;
 }
 
 .conteudo{
@@ -81,17 +82,14 @@ body{
     margin-top: auto;
     margin-bottom: auto;
 }
-
-/* @media (min-width: 1400px) {
-    .carousel-inner img{
-        object-fit: contain;
-        max-height: 1500px;
-    }
-  }
-
-@media (min-width: 1200px) {
-    .carousel-inner img{
-        object-fit: contain;
-        max-height: 620px;
-    }
-  } */
+/*Floating Back-To-Top Button*/
+#myBtn {
+    position: fixed;
+    bottom: 25px;
+    float: right;
+    right: 15%;
+    left: 85%;
+    background-color: unset;
+    border: hidden;
+    
+}
