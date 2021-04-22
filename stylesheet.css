@@ -61,10 +61,16 @@ body{
     width: 3rem;
     margin: 20px;
 }
+/* .carousel-inner{
+    object-fit: contain;    
+    justify-content: center;
+    margin: auto;
+} */
+
 .carousel-inner img{
     object-fit: contain;
-    max-height: 722px;
-    margin-bottom: 60px;
+    padding: 4%;
+    height: 100%;
 }
 
 .footer{
