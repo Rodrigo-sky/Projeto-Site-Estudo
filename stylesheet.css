@@ -38,6 +38,8 @@ body{
 .conteudo{
     margin: 70px 0px;
 }
+.conteudo p{font-size: 20px;}
+
 .conteudo h3{
     margin-bottom: 30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
